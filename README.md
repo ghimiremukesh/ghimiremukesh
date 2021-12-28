@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Autonomous Driving
-- 🌱 I’m currently learning Reinforcement Learning
+- 🌱 I’m currently learning Transformers
 
 <!--
 **ghimiremukesh/ghimiremukesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
